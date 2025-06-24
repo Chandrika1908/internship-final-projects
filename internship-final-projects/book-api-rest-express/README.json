@@ -1,0 +1,10 @@
+# 📚 Book Management REST API (Task 3)
+
+## ✅ Description
+A simple RESTful API built with Node.js and Express to manage a list of books (CRUD operations). Data is stored in memory (no database required).
+
+## 🚀 Setup Instructions
+
+```bash
+npm install
+npm start

@@ -1,0 +1,14 @@
+{
+  "name": "book-api-rest-express",
+  "version": "1.0.0",
+  "description": "A RESTful API for managing books using Node.js and Express",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "Chandrika Talluri",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
